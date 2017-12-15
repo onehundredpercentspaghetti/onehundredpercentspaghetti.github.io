@@ -1,0 +1,13 @@
+.reveal section img { background:none; border:none; box-shadow:none; }
+.startbutton {
+		font-family: 'Permanent Marker', cursive;
+    background-color: #8F0000;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+		border-radius: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+}
